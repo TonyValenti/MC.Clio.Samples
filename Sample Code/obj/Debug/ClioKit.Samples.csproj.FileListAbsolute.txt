@@ -1,0 +1,2 @@
+C:\Users\Tony Valenti\source\repos\AlphaDrive\ClioKit.Samples\obj\Debug\ClioKit.Samples.csprojResolveAssemblyReference.cache
+C:\Users\Tony Valenti\source\repos\AlphaDrive\ClioKit.Samples\obj\Debug\ClioKit.Samples.csproj.CoreCompileInputs.cache
